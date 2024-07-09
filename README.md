@@ -6,7 +6,6 @@ Qué herramientas he utilizado para el desarrollo de la página?
 
 Chatgpt para ayudarme a desarrollar el código mas rápido y eficaz.
 Lenguaje HTML, CSS, PHP y Javascript
-Framework: Visual Studio Code
 Servidor en local: XAMPP
 
 He utilizado estos recursos pues eran los que he aprendido a lo largo de mi carrera como desarrollador web. Esto se podría implementar en un servidor en la nube con un sistema de Hosting. 
