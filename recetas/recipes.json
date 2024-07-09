@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Receta1 ",
+        "ingredients": "Agua",
+        "instructions": "Hervirla"
+    },
+    {
+        "title": "Receta 2",
+        "ingredients": "Lore ipsum 2",
+        "instructions": "Lore ipsum"
+    }
+]
